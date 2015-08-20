@@ -1,0 +1,6 @@
+user.properties
+target/
+.idea/*.xml
+.idea/*.iws
+.idea/.name
+.idea/*/*.xml
