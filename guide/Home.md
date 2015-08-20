@@ -1,6 +1,6 @@
 # What is F1X #
 
-![](https://github.com/andymalakov/f1x/wiki/logo.png) F1X is open source implementation of FIX Protocol in Java.
+![](https://github.com/johnaimes1a/f1x/blob/master/guide/logo.png) F1X is open source implementation of FIX Protocol in Java.
 
 ## Why ##
 
