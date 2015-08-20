@@ -1,4 +1,4 @@
 F1X
 ===
 
-Super-fast Java implementation of FIX Protocol. More information is on [wiki](https://github.com/johnaimes1a/f1x/guide/Home.md).
+An Open-Source High Performance Fix Engine alternative to Quickfix and Quickfix/J. More information is availabe in the guide. (https://github.com/johnaimes1a/f1x/blob/master/guide/Home.md).
