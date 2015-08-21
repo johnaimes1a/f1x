@@ -30,7 +30,7 @@
     <groupId>com.github.johnaimes1a.f1x</groupId>
     <artifactId>f1x</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.0.1</version>
     <name>f1x</name>
     <url>https://github.com/johnaimes1a/f1x</url>
     <description>Java implementation of FIX Protocol.</description>
